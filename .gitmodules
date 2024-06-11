@@ -4,3 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/mihajlodj/devops-hotel-webapp-frontend
+[submodule "infra"]
+	path = infra
+	url = git@github.com:mihajlodj/infra.git
